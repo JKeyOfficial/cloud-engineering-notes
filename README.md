@@ -1,6 +1,7 @@
 Glossary: 
 
 JWT - JSON Web Token. Industry standard way to safely share information between the frontend and backend as a single string of text.
+Private Endpoints - Hidden network connection that allows backend to connect to database, preventing public access.
 
 Every modern application can be boiled down to 5 layers:
 
